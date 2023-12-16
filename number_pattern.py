@@ -50,7 +50,7 @@ for i in range(n):
     for k in range((n-1)-i):
         print(p,end=" ")
     p+=1
-    print()
+    print() 
 ##-------------------------------------------------------
 # Decrementing rows
 n = int(input('Enter number:- '))
